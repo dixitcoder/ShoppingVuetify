@@ -101,10 +101,10 @@
 
 <br/>
 
-# Vuetify Admin
+# Vuetify Shopping
 
 
-![Architecture](https://camo.githubusercontent.com/3777ce67eb8ce25fdf9661f3cdfc80494b6d1996c290e105c8d4732991024b60/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f7468656d6573656c656374696f6e2f74732d6173736574732f6d61746572696f2f6d61746572696f2d767565746966792d7675656a732d61646d696e2d74656d706c6174652d667265652f62616e6e65722f62616e6e65722e706e67)
+![Architecture](https://lh3.googleusercontent.com/pw/AIL4fc8hw5J3S7OKGRTmmRyBCXNjW7SokIZ_HceKy_hgHegyBBDixncCeuxf5oGsf6ryvr3Dt_WyKJCg3nWigwVBpQQNHUwuVuuWMNlFJuBljhud4fVCLY8-Y9or-scJRvSfAzAcBcgg0vp1MKLggUBo6ahrsLbTgdfN8GiCPrhA04BhXRouV6DBJyyrbXW2OVidmAXPDVFk1RtI3l3byg4v_O-RTKV_M8LXHl1BiId2qObexobsAdMrwSds_xdl2OP0nGc2Njs7fvc1-3mn8mLFJw1OdBXggHrjOUiAKOAHPjsgC7w0E0fqP50P8_aqZdyJqTzbiOTNOzpMCP_f60q2oiv-wYzrf97t4EtBF1UxA41rURHrmqVL25dfq3aTQEpp-cluKazxL993gsJrQvBYx3BDls5TkJHS3BOTkiBVQVISuf2gVFxgue2Kq20l4COFZW2gn5ucg4CR2nvsYWrT4CU71QJeWa6AXm6YEpGZ2NfPojkQM2MuDvg3Hb2e2ZIvC76St12UxQCUbFMKavsDwMRSM9HiKUmwMTieNHstLn2w5XBI_zL1xMb8ZdapD84FvLZcqlGNkLWNN2256miYnLfdMnjW72I5ztb5PfU_rlS_3rDkbxk3hQLtNXLqzJ3LZG75oQhv90O9N6xy0EFzjdODzKa9TUbt8Cv8eQ7k7TfwxTZrwvdXFoYjjIPGiAGZIQSBcjPK2lBaJfnDg7802TAktTiKvyJcUplyB7OOP_7rUtj-QcwPVDXB7cNHL4idr46s5L-mOgcDOBlVGtC4fiuzVfqPgsWTKySltDsQctH4OwsBM1m-_-taBtDM8N7lu01_iR8Zmmv24ThQnv6hQzPpmgCp9V59JVe2pxVVnZ1a5LEO8BpmW6IJ4hoas96-H0qRXKCYyjoVGg6FJa1qd3B5gSsxldFLLrs8rksgn7LaOuXAJzdSCUQWhxYcZhvQPWcvpR4wpHOWurZFrKnpwQ73TsC-XZFjS8CrF1nNuy9MF1lAiwLjrFzsyoep7ndR8Gc6=w885-h664-s-no?authuser=1)
 
 > See how it works [here](https://www.okami101.io/vuetify-admin/guide/#how-it-works).
 
@@ -117,6 +117,14 @@ The recommended way to start a Vite-powered Vue project
 </p>
 
 ## Getting started
+
+
+
+### Run a production Data Load 
+
+```
+json-server db.json
+```
 
 ### Install dependencies
 
@@ -135,6 +143,11 @@ npm run dev
 ```
 npm run serve
 ```
+### Run a axios
+
+```
+npm install axios
+```
 
 ### Run a production build
 
@@ -149,7 +162,4 @@ npm run lint
 ```
 
 
-# ShoppingVuetify
-# ShoppingVuetify
-# ShoppingVuetify
 # ShoppingVuetify
